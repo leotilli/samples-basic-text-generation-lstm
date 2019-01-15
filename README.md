@@ -1,2 +1,2 @@
 # samples-basic-text-generation-lstm
-insipired by &lt;https://www.kaggle.com/shivamb/beginners-guide-to-text-generation-using-lstms>
+insipired by [Beginners Guide to Text Generation using LSTMs](https://www.kaggle.com/shivamb/beginners-guide-to-text-generation-using-lstms)
