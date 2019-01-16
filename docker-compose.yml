@@ -1,0 +1,17 @@
+version: '3.7'
+    
+services:      
+  text-generation-lstm:
+    image: samples/text-generation-lstm:latest
+    build:
+      context: ./jupyter-keras-tensor/
+      dockerfile: Dockerfile
+    hostname: text-generation-lstm
+    # environment:
+      # - DISPLAY=host.docker.internal:0
+      # - LIBGL_ALWAYS_INDIRECT=1
+    working_dir: /home/jovyan/sources
+    ports:
+      - '8900:8888'
+    volumes:
+      - ./text-generation-lstm/sources:/home/jovyan/sources

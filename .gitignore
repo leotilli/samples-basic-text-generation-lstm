@@ -1,0 +1,7 @@
+### https://raw.github.com/github/gitignore/9f847e58591602162526ca9af339ed3ff4502252/Global/VisualStudioCode.gitignore
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
