@@ -6,7 +6,7 @@ deeply insipired by [Beginners Guide to Text Generation using LSTMs](https://www
 
 <https://www.kaggle.com/aashita/nyt-comments/version/13>
 
-Unzip into sources/data/nyt-comments folder.
+Unzip into text-generation-lstm/sources/data/nyt-comments folder.
 
 ## RUN
 
