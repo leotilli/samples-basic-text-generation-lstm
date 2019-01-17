@@ -1,0 +1,8 @@
+name: text-generation-lstm
+dependencies:
+  - python=3.6.8
+  - numpy
+  - pandas
+  - tensorflow-gpu
+  - keras
+  - ipykernel
